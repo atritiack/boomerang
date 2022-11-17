@@ -1,0 +1,5 @@
+Credenciais Grafana:
+
+grafana.boomerang.grafana.net/login/grafana_com
+Login: grafana.boomerang@gmail.com
+Senha: 3mpathy2023!

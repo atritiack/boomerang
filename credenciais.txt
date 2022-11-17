@@ -1,0 +1,5 @@
+conn = psycopg2.connect(database="ouroboom",
+                        host="dbboom.cc3bsihp7msm.sa-east-1.rds.amazonaws.com",
+                        user="ronigro",
+                        password="boom2023",
+                        port=5432)
